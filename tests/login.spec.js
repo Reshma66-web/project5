@@ -6,6 +6,6 @@ console.log("playwright framework");
 console.log("branch1");
 console.log("branch2");
 console.log("final code modified");
-// time scheduled
+// build is scheduled
 
 })
